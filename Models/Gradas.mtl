@@ -1,0 +1,14 @@
+newmtl co
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 8
+map_Kd concreto.png
+
+newmtl se
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 8
+map_Kd asientos.png
+
