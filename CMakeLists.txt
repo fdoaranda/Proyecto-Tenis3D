@@ -1,0 +1,11 @@
+# Compilacion en Linux (para pruebas). En Windows el proyecto se abre en Visual Studio como en las practicas.
+cmake_minimum_required(VERSION 3.10)
+project(Tenis3D C CXX)
+set(CMAKE_CXX_STANDARD 14)
+set(SOIL2_DIR "/tmp/soil/src" CACHE PATH "Carpeta que contiene SOIL2/")
+file(GLOB SOIL_SRC ${SOIL2_DIR}/SOIL2/*.c)
+add_library(soil2 STATIC ${SOIL_SRC})
+target_include_directories(soil2 PUBLIC ${SOIL2_DIR})
+add_executable(tenis main.cpp)
+target_include_directories(tenis PRIVATE ${SOIL2_DIR})
+target_link_libraries(tenis soil2 GLEW glfw GL assimp)
