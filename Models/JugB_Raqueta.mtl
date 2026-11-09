@@ -1,0 +1,14 @@
+newmtl f
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 8
+map_Kd atlas_jugB.png
+
+newmtl s
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 8
+map_Kd cuerdas_raqueta.png
+
