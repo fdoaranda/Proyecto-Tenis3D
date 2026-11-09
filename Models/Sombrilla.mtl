@@ -1,0 +1,14 @@
+newmtl r
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 8
+map_Kd sombrilla.png
+
+newmtl m
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 8
+map_Kd metal_oscuro.png
+
