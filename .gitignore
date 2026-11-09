@@ -6,3 +6,5 @@ x64/
 Debug/
 Release/
 __pycache__/
+Proyecto_Tenis3D/
+*.user
