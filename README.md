@@ -12,7 +12,7 @@ Integrantes: Aranda Marron Fernando, Gutierrez Nolasco Emiliano, Chacon Jaral Hu
 
 ## Compilar en Visual Studio
 1. Proyecto de consola con main.cpp, Model.h, Mesh.h, Shader.h y Camera.h.
-2. Vincular GLFW, GLEW, SOIL2 y Assimp como en las practicas, mas opengl32.lib.
+2. Vincular GLFW, GLEW, SOIL2 y Assimp, mas opengl32.lib.
 3. El directorio de trabajo debe ser la carpeta que contiene Models y Shader.
 4. Argumento --demo para ejecutar el recorrido automatico.
 
