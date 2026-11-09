@@ -1,4 +1,4 @@
-# Proyecto Final: Escenario Deportivo 3D Interactivo (Tenis)
+# Proyecto Final: Escenario Deportivo 3D Interactivo Tenis
 Computacion Grafica e Interaccion Humano-Computadora, FI UNAM, semestre 2027-1.
 Integrantes: Aranda Marron Fernando, Gutierrez Nolasco Emiliano, Chacon Jaral Hugo Emmanuel.
 
